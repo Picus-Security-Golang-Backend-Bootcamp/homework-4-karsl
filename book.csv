@@ -1,0 +1,6 @@
+name;stock_code;author_id;isbn;number_of_pages;price;quantity
+In Search of Lost Time;SKU-012;1;9781492077213;100;35.5;999
+Ulysses;SKU-044;2;8781492077213;101;46.0;888
+Don Quixote;SKU-011;3;7781492077213;102;55.2;777
+One Hundred Years of Solitude;SKU-103;4;6781492077213;103;145.67;666
+The Great Gatsby;SKU-224;5;5781492077213;104;111.11;555
